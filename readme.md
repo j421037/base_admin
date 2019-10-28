@@ -14,6 +14,7 @@
     3、jwt "tymon/jwt-auth": "dev-develop",
     
 ### 运行方式
+    0、sudo composer install
     1、cp .env.example .env
     2、php artisan key:generate    
 
