@@ -20,7 +20,7 @@ Route::get('/user_add', function() {
     $user->name = 'admin';
     $user->phone = '123456';
     $user->email = '421037083@qq.com';
-    $user->password = \Illuminate\Support\Facades\Hash::make('sb123.++');
+    $user->password = \Illuminate\Support\Facades\Hash::make('123.++');
     $user->save();
 });
 

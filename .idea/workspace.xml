@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e8ead44-47e8-4d9a-b5f2-6580b522dd20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Repositoreis/User/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Repositoreis/User/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +177,7 @@
       <workItem from="1572269996585" duration="59000" />
       <workItem from="1572270086870" duration="1776000" />
       <workItem from="1572272268814" duration="85000" />
-      <workItem from="1598866200295" duration="2020000" />
+      <workItem from="1598866200295" duration="2065000" />
     </task>
     <servers />
   </component>
